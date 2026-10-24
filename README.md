@@ -1,6 +1,6 @@
 # Kostadin Bashev
 
-Magento 2 & Hyvä developer, founder of **[Webcode](https://webcode.bg/bg/)**, a Magento agency from Sofia, Bulgaria.
+Magento 2 & Hyvä developer, founder of **[Webcode](https://webcode.bg/bg/)**, a Magento agency from Bulgaria.
 
 I work on Magento stores every day and fix what I run into upstream.
 **29 merged pull requests across 17 open source projects**, including:
